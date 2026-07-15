@@ -1,16 +1,22 @@
-
 -- =====================================================
--- Project: Retail Sales Analysis
--- Database Setup
--- Author: Kritika Thakur
+-- Project: Retail Sales Analysis Using MySQL
+-- Author: shubham negi
+-- Description: Database setup and initial verification
 -- =====================================================
 
 -- Create Database
-CREATE DATABASE retail_sales;
+CREATE DATABASE IF NOT EXISTS retail_sales_db;
 
--- Use Database
-USE retail_sales;
+-- Select Database
+USE retail_sales_db;
 
--- View all records
+-- Display all tables
+SHOW TABLES;
+
+-- View the dataset
 SELECT *
-FROM retail_sales;
+FROM retail_sales_dataset
+LIMIT 10;
+
+-- Check table structure
+DESCRIBE retail_sales_dataset;
