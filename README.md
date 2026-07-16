@@ -289,12 +289,12 @@ This project was developed as part of my Data Analyst portfolio to demonstrate S
 # 🤝 Connect With Me
 
 **GitHub**
-
-https://github.com/your-username
+https://github.com/Shub-afk
 
 **LinkedIn**
 
-https://linkedin.com/in/your-linkedin-profile
+www.linkedin.com/in/shubham-negi-5184b7327
+
 
 ---
 
